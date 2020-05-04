@@ -1,6 +1,7 @@
 # DCI Boilerplate II: Webpack + babel
 
 A [Webpack 4](https://webpack.js.org/) boilerplate with built-in :
+-
 
 - HTML file generation to serve your webpack bundles using [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
 - ECMAScript 6 to ECMAScript 5 transpiling with [babel](https://babeljs.io/)
